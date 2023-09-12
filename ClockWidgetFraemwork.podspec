@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ClockWidgetFraemwork"
-  spec.version      = "0.0.7"
+  spec.version      = "0.0.11"
   spec.summary      = "ClockWidgetFraemwork is nice."
 
   # This description is used to generate tags and improve search results.

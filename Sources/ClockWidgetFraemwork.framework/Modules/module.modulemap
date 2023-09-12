@@ -1,0 +1,6 @@
+framework module ClockWidgetFraemwork {
+  umbrella header "ClockWidgetFraemwork.h"
+
+  export *
+  module * { export * }
+}

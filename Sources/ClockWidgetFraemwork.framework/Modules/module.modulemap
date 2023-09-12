@@ -4,3 +4,8 @@ framework module ClockWidgetFraemwork {
   export *
   module * { export * }
 }
+
+module ClockWidgetFraemwork.Swift {
+  header "ClockWidgetFraemwork-Swift.h"
+  requires objc
+}

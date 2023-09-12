@@ -1,0 +1,11 @@
+framework module ClockWidgetFraemwork {
+  umbrella header "ClockWidgetFraemwork.h"
+
+  export *
+  module * { export * }
+}
+
+module ClockWidgetFraemwork.Swift {
+  header "ClockWidgetFraemwork-Swift.h"
+  requires objc
+}

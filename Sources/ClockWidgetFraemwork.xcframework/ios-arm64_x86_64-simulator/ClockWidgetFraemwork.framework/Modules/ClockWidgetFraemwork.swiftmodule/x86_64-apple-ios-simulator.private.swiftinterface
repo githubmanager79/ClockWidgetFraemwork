@@ -1,0 +1,19 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name ClockWidgetFraemwork
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+@_exported import ClockWidgetFraemwork
+import Foundation
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+public class ClockWidget {
+  public var mainController: UIKit.UIViewController
+  public init()
+  public func getSomeText() -> Swift.String
+  public func back()
+  public func presentLibraryViewController(from parentViewController: UIKit.UIViewController)
+  @objc deinit
+}

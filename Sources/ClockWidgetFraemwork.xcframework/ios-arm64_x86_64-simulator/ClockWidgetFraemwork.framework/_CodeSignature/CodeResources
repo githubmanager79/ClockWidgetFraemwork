@@ -26,27 +26,43 @@
 		</data>
 		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		ILV75CGnRglc+YSTCcO48qh4rwg=
+		</data>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		XongV97pKjUdjln/S7ZwikKfDts=
 		</data>
 		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		Xb2zuZCRmKUilUfQHMx1i4qyrO8=
 		</data>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		XongV97pKjUdjln/S7ZwikKfDts=
+		</data>
 		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		890O5836pzvv6yxjIAtSwVJBiTI=
+		HlVbWrGf7QVf0z6qAyZaQ1+p2ds=
 		</data>
 		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		ILV75CGnRglc+YSTCcO48qh4rwg=
+		</data>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		eMpvC4mMRYNfhmc1a6/MFkYPRsE=
 		</data>
 		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		ovmQk44bFx94IUQNK0h900PKa3w=
 		</data>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		eMpvC4mMRYNfhmc1a6/MFkYPRsE=
+		</data>
 		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6AhFIpqvRYEUNNP/aEoL5jTICGo=
+		BztEl4vl9Qavb/wpFosdGbGop1k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,7 +103,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			VWVTMXEA7RFonDDyUJxIP7bMWuPYMCFWzfeTZgxBHBo=
+			</data>
+		</dict>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FGeOi0sDVuCMYRcZuOqdjmEM+rTypQ5Jtjov/m7cqTU=
 			</data>
 		</dict>
 		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -97,18 +120,32 @@
 			nQ5JqGHU4ohtQ+ii8MWlR9zc3LsKuM5Ecm0VTjX0b3M=
 			</data>
 		</dict>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FGeOi0sDVuCMYRcZuOqdjmEM+rTypQ5Jtjov/m7cqTU=
+			</data>
+		</dict>
 		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BeQD0CAt8o7jyanVevZ3QNPc/bfGOfteOMpG/tqBpVg=
+			CPogBukMtPVY4zmXbSrUOL2tplFCV9eV5nrcZXF7pR0=
 			</data>
 		</dict>
 		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			VWVTMXEA7RFonDDyUJxIP7bMWuPYMCFWzfeTZgxBHBo=
+			</data>
+		</dict>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xk32Ut+rtAoXNjIEWUA13ej38uKj4mKevBPWclgS9mA=
 			</data>
 		</dict>
 		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -118,11 +155,18 @@
 			0ozSnSCMTvLx1p1B+iSuGsMnVwKUxSaEWTIebz2jqBI=
 			</data>
 		</dict>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xk32Ut+rtAoXNjIEWUA13ej38uKj4mKevBPWclgS9mA=
+			</data>
+		</dict>
 		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+BMtr//S0rp6PPHyLlylpkkEJh3pMFOhNmoexfMuRU8=
+			7PUFmtO2qdIrPgSYVEO4s+PZp/+bhsJ8iieSLBWv9uk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

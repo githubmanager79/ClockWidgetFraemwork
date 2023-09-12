@@ -1,0 +1,1232 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ClockWidgetFraemwork"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ClockWidgetFraemwork"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ClockView",
+        "printedName": "ClockView",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "hoursHand",
+            "printedName": "hoursHand",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:20ClockWidgetFraemwork0A4ViewC9hoursHandSo6UIViewCSgvp",
+            "mangledName": "$s20ClockWidgetFraemwork0A4ViewC9hoursHandSo6UIViewCSgvp",
+            "moduleName": "ClockWidgetFraemwork",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIView",
+                        "printedName": "UIKit.UIView",
+                        "usr": "c:objc(cs)UIView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork0A4ViewC9hoursHandSo6UIViewCSgvg",
+                "mangledName": "$s20ClockWidgetFraemwork0A4ViewC9hoursHandSo6UIViewCSgvg",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIView",
+                        "printedName": "UIKit.UIView",
+                        "usr": "c:objc(cs)UIView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork0A4ViewC9hoursHandSo6UIViewCSgvs",
+                "mangledName": "$s20ClockWidgetFraemwork0A4ViewC9hoursHandSo6UIViewCSgvs",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork0A4ViewC9hoursHandSo6UIViewCSgvM",
+                "mangledName": "$s20ClockWidgetFraemwork0A4ViewC9hoursHandSo6UIViewCSgvM",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "minutesHand",
+            "printedName": "minutesHand",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:20ClockWidgetFraemwork0A4ViewC11minutesHandSo6UIViewCSgvp",
+            "mangledName": "$s20ClockWidgetFraemwork0A4ViewC11minutesHandSo6UIViewCSgvp",
+            "moduleName": "ClockWidgetFraemwork",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIView",
+                        "printedName": "UIKit.UIView",
+                        "usr": "c:objc(cs)UIView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork0A4ViewC11minutesHandSo6UIViewCSgvg",
+                "mangledName": "$s20ClockWidgetFraemwork0A4ViewC11minutesHandSo6UIViewCSgvg",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIView",
+                        "printedName": "UIKit.UIView",
+                        "usr": "c:objc(cs)UIView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork0A4ViewC11minutesHandSo6UIViewCSgvs",
+                "mangledName": "$s20ClockWidgetFraemwork0A4ViewC11minutesHandSo6UIViewCSgvs",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork0A4ViewC11minutesHandSo6UIViewCSgvM",
+                "mangledName": "$s20ClockWidgetFraemwork0A4ViewC11minutesHandSo6UIViewCSgvM",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "secondsHand",
+            "printedName": "secondsHand",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:20ClockWidgetFraemwork0A4ViewC11secondsHandSo6UIViewCSgvp",
+            "mangledName": "$s20ClockWidgetFraemwork0A4ViewC11secondsHandSo6UIViewCSgvp",
+            "moduleName": "ClockWidgetFraemwork",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 2,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIView",
+                        "printedName": "UIKit.UIView",
+                        "usr": "c:objc(cs)UIView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork0A4ViewC11secondsHandSo6UIViewCSgvg",
+                "mangledName": "$s20ClockWidgetFraemwork0A4ViewC11secondsHandSo6UIViewCSgvg",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIView",
+                        "printedName": "UIKit.UIView",
+                        "usr": "c:objc(cs)UIView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork0A4ViewC11secondsHandSo6UIViewCSgvs",
+                "mangledName": "$s20ClockWidgetFraemwork0A4ViewC11secondsHandSo6UIViewCSgvs",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork0A4ViewC11secondsHandSo6UIViewCSgvM",
+                "mangledName": "$s20ClockWidgetFraemwork0A4ViewC11secondsHandSo6UIViewCSgvM",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ClockView",
+                "printedName": "ClockWidgetFraemwork.ClockView",
+                "usr": "c:@M@ClockWidgetFraemwork@objc(cs)ClockView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ClockWidgetFraemwork@objc(cs)ClockView(im)initWithFrame:",
+            "mangledName": "$s20ClockWidgetFraemwork0A4ViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "ClockWidgetFraemwork",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ClockWidgetFraemwork.ClockView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ClockView",
+                    "printedName": "ClockWidgetFraemwork.ClockView",
+                    "usr": "c:@M@ClockWidgetFraemwork@objc(cs)ClockView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ClockWidgetFraemwork@objc(cs)ClockView(im)initWithCoder:",
+            "mangledName": "$s20ClockWidgetFraemwork0A4ViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "ClockWidgetFraemwork",
+            "overriding": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "updateHandsForCurrentTime",
+            "printedName": "updateHandsForCurrentTime()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:20ClockWidgetFraemwork0A4ViewC25updateHandsForCurrentTimeyyF",
+            "mangledName": "$s20ClockWidgetFraemwork0A4ViewC25updateHandsForCurrentTimeyyF",
+            "moduleName": "ClockWidgetFraemwork",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@ClockWidgetFraemwork@objc(cs)ClockView",
+        "mangledName": "$s20ClockWidgetFraemwork0A4ViewC",
+        "moduleName": "ClockWidgetFraemwork",
+        "isOpen": true,
+        "declAttributes": [
+          "Custom",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ClockWidgetFraemwork"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ClockWidgetFraemwork"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MyViewController",
+        "printedName": "MyViewController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "clockView",
+            "printedName": "clockView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "ClockWidgetFraemwork.ClockView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ClockView",
+                    "printedName": "ClockWidgetFraemwork.ClockView",
+                    "usr": "c:@M@ClockWidgetFraemwork@objc(cs)ClockView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:20ClockWidgetFraemwork16MyViewControllerC05clockE0AA0aE0CSgvp",
+            "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC05clockE0AA0aE0CSgvp",
+            "moduleName": "ClockWidgetFraemwork",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "ClockWidgetFraemwork.ClockView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ClockView",
+                        "printedName": "ClockWidgetFraemwork.ClockView",
+                        "usr": "c:@M@ClockWidgetFraemwork@objc(cs)ClockView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork16MyViewControllerC05clockE0AA0aE0CSgvg",
+                "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC05clockE0AA0aE0CSgvg",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "ClockWidgetFraemwork.ClockView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ClockView",
+                        "printedName": "ClockWidgetFraemwork.ClockView",
+                        "usr": "c:@M@ClockWidgetFraemwork@objc(cs)ClockView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork16MyViewControllerC05clockE0AA0aE0CSgvs",
+                "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC05clockE0AA0aE0CSgvs",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork16MyViewControllerC05clockE0AA0aE0CSgvM",
+                "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC05clockE0AA0aE0CSgvM",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "timer",
+            "printedName": "timer",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Timer?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Timer",
+                    "printedName": "Foundation.Timer",
+                    "usr": "c:objc(cs)NSTimer"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:20ClockWidgetFraemwork16MyViewControllerC5timerSo7NSTimerCSgvp",
+            "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC5timerSo7NSTimerCSgvp",
+            "moduleName": "ClockWidgetFraemwork",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.Timer?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Timer",
+                        "printedName": "Foundation.Timer",
+                        "usr": "c:objc(cs)NSTimer"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork16MyViewControllerC5timerSo7NSTimerCSgvg",
+                "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC5timerSo7NSTimerCSgvg",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.Timer?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Timer",
+                        "printedName": "Foundation.Timer",
+                        "usr": "c:objc(cs)NSTimer"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork16MyViewControllerC5timerSo7NSTimerCSgvs",
+                "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC5timerSo7NSTimerCSgvs",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork16MyViewControllerC5timerSo7NSTimerCSgvM",
+                "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC5timerSo7NSTimerCSgvM",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ClockWidgetFraemwork@objc(cs)MyViewController(im)viewDidLoad",
+            "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC11viewDidLoadyyF",
+            "moduleName": "ClockWidgetFraemwork",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidDisappear",
+            "printedName": "viewDidDisappear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ClockWidgetFraemwork@objc(cs)MyViewController(im)viewDidDisappear:",
+            "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC16viewDidDisappearyySbF",
+            "moduleName": "ClockWidgetFraemwork",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidDisappear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MyViewController",
+                "printedName": "ClockWidgetFraemwork.MyViewController",
+                "usr": "c:@M@ClockWidgetFraemwork@objc(cs)MyViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ClockWidgetFraemwork@objc(cs)MyViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "ClockWidgetFraemwork",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ClockWidgetFraemwork.MyViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MyViewController",
+                    "printedName": "ClockWidgetFraemwork.MyViewController",
+                    "usr": "c:@M@ClockWidgetFraemwork@objc(cs)MyViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@ClockWidgetFraemwork@objc(cs)MyViewController(im)initWithCoder:",
+            "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "ClockWidgetFraemwork",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@ClockWidgetFraemwork@objc(cs)MyViewController",
+        "mangledName": "$s20ClockWidgetFraemwork16MyViewControllerC",
+        "moduleName": "ClockWidgetFraemwork",
+        "isOpen": true,
+        "declAttributes": [
+          "Custom",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ClockWidgetFraemwork"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "ClockWidgetFraemwork"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ClockWidget",
+        "printedName": "ClockWidget",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "mainController",
+            "printedName": "mainController",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:20ClockWidgetFraemwork0aB0C14mainControllerSo06UIViewE0Cvp",
+            "mangledName": "$s20ClockWidgetFraemwork0aB0C14mainControllerSo06UIViewE0Cvp",
+            "moduleName": "ClockWidgetFraemwork",
+            "isOpen": true,
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork0aB0C14mainControllerSo06UIViewE0Cvg",
+                "mangledName": "$s20ClockWidgetFraemwork0aB0C14mainControllerSo06UIViewE0Cvg",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork0aB0C14mainControllerSo06UIViewE0Cvs",
+                "mangledName": "$s20ClockWidgetFraemwork0aB0C14mainControllerSo06UIViewE0Cvs",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:20ClockWidgetFraemwork0aB0C14mainControllerSo06UIViewE0CvM",
+                "mangledName": "$s20ClockWidgetFraemwork0aB0C14mainControllerSo06UIViewE0CvM",
+                "moduleName": "ClockWidgetFraemwork",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ClockWidget",
+                "printedName": "ClockWidgetFraemwork.ClockWidget",
+                "usr": "s:20ClockWidgetFraemwork0aB0C"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:20ClockWidgetFraemwork0aB0CACycfc",
+            "mangledName": "$s20ClockWidgetFraemwork0aB0CACycfc",
+            "moduleName": "ClockWidgetFraemwork",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "getSomeText",
+            "printedName": "getSomeText()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:20ClockWidgetFraemwork0aB0C11getSomeTextSSyF",
+            "mangledName": "$s20ClockWidgetFraemwork0aB0C11getSomeTextSSyF",
+            "moduleName": "ClockWidgetFraemwork",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "back",
+            "printedName": "back()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:20ClockWidgetFraemwork0aB0C4backyyF",
+            "mangledName": "$s20ClockWidgetFraemwork0aB0C4backyyF",
+            "moduleName": "ClockWidgetFraemwork",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "presentLibraryViewController",
+            "printedName": "presentLibraryViewController(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:20ClockWidgetFraemwork0aB0C28presentLibraryViewController4fromySo06UIViewG0C_tF",
+            "mangledName": "$s20ClockWidgetFraemwork0aB0C28presentLibraryViewController4fromySo06UIViewG0C_tF",
+            "moduleName": "ClockWidgetFraemwork",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:20ClockWidgetFraemwork0aB0C",
+        "mangledName": "$s20ClockWidgetFraemwork0aB0C",
+        "moduleName": "ClockWidgetFraemwork",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

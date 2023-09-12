@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ClockWidgetFraemwork-Swift.h</key>
 		<data>
-		BMDiEbIvttkGMWiZ995+dAst9qk=
+		dUj1SYvdlEXOUakBix8jwrLPxMA=
 		</data>
 		<key>Headers/ClockWidgetFraemwork.h</key>
 		<data>
@@ -14,23 +14,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qQMZ/lcm8t2hYH45HEeaRneUQto=
+		Nkyst2yyyd1JXsdbQLBzWbLE4rI=
 		</data>
-		<key>Modules/ClockWidgetFraemwork.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		kSS+mXKZjit1rHKOP0zV9jAwECI=
+		YwIKZhSEeuKptSbYLSii0X3lnQo=
 		</data>
-		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios.abi.json</key>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		FYxW7V4XeumE4Z51xQdOIgT25Zg=
+		</data>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
 		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
-		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		KjwIEN351cKF/OECmjThYI5WGuw=
+		Xb2zuZCRmKUilUfQHMx1i4qyrO8=
 		</data>
-		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		w3TYwODYiSTAwP9rMhipC/CoPIU=
+		890O5836pzvv6yxjIAtSwVJBiTI=
+		</data>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		</data>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		ovmQk44bFx94IUQNK0h900PKa3w=
+		</data>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		6AhFIpqvRYEUNNP/aEoL5jTICGo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,7 +59,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CC2ji5RzZtoxNtiwLHTX1SbNBtcf7GTJ6bdVr/Htf1c=
+			7GCHDyFdawud1Zn5Ob2rYgraVYttYfzZs+QGdzLgcYw=
 			</data>
 		</dict>
 		<key>Headers/ClockWidgetFraemwork.h</key>
@@ -53,32 +69,60 @@
 			MSokvz6Yxk0oFDgo9zQnR8sxgYI/5QGKscmxq7oQWnc=
 			</data>
 		</dict>
-		<key>Modules/ClockWidgetFraemwork.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2bHtSUvaOclO06FWW8kCxqe+bO6Qdd9qT805gUV0Hlw=
+			arHl3tpptNqzCwU78PY13p3cjeO0as3MGi9jc3TowLA=
 			</data>
 		</dict>
-		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios.abi.json</key>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v2Ku/zLDxN9VxoOQTe7C6K5OJP4SFdJ7jsvVgwxytfI=
+			</data>
+		</dict>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
-		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fdttB0JsWFg+1bGjYNRCHJdvFJoIboj91hue9dI7zYk=
+			nQ5JqGHU4ohtQ+ii8MWlR9zc3LsKuM5Ecm0VTjX0b3M=
 			</data>
 		</dict>
-		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ooJM7cwgaiPC2JJml9DZtKfjrRrgep3aI5z8lbMqF98=
+			BeQD0CAt8o7jyanVevZ3QNPc/bfGOfteOMpG/tqBpVg=
+			</data>
+		</dict>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			</data>
+		</dict>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0ozSnSCMTvLx1p1B+iSuGsMnVwKUxSaEWTIebz2jqBI=
+			</data>
+		</dict>
+		<key>Modules/ClockWidgetFraemwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+BMtr//S0rp6PPHyLlylpkkEJh3pMFOhNmoexfMuRU8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
